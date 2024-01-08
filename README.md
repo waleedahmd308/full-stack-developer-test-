@@ -17,7 +17,7 @@ The intended purpose is to test your backend skills, ranging from System design,
 ## API tasks
 
 1. You need to create an end-pooint called 'load_categories'
-2. You need to integrate this [API](https://demo2.meals4u.net/fe/api.test.php), so whenever I hit the end-point it will return me the result from this api.
+2. You need to integrate this [API](https://demo2.meals4u.net/fe/api.test.php), [ POST api and requires multipart "page" param vaue from 0 - 80] so whenever I hit the end-point it will return me the result from this api.
 3. The end-point should be auth protected, so it can't be accessed publicly 
 
 ## Tools and technologies
