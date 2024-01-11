@@ -35,7 +35,18 @@ The intended purpose is to test your backend skills, ranging from System design,
 5. Add "How to run instruction" in the area below
 
 ## How to run?
-To be added by the candidate
+
+  1. Clone the repository from github in VsCode
+  2. Make sure node is install in your pc
+  3. Type node app.js in terminal
+  4. Go to browser and type http://localhost:3000/
+
+ How to test
+
+  1. Now regsiter using http://localhost:3000/regsiter
+  2. And login using http://localhost:3000/login( you cannot visit the load_catagories if not login)
+  3. http://localhost:3000/load_categories( you will get the data)
+
 
 ## Deadline
 Please complete it within 3 days of assignment. 
